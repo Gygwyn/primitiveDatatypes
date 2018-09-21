@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author matsrylander
+ *
+ */
+module primitiveDatatypes {
+}
